@@ -34,7 +34,7 @@ public class RWACIndexReader {
 	/**
 	 * Проверка файла на заголовок
 	 */
-	public boolean check() {return true;}
+	public boolean check() {return false;}
 	/**
 	 * Прочитать данные из файла
 	 * @throws RWEncoderException 
