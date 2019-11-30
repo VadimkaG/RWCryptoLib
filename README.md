@@ -1,2 +1,1 @@
-# RWCryptoLib
-racing World Encode Lib example
+Описание методов библиотеки шифрования, созданная для проекта Racing World
