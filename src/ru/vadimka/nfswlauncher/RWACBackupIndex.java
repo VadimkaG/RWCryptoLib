@@ -1,6 +1,13 @@
 package ru.vadimka.nfswlauncher;
 import java.util.HashMap;
 
+/**
+ * Класс-декодер бэкап-индекса Racing World AntiCheat
+ * Это лишь демонстрационный файл, который описывает методы
+ * тело методов скрыто
+ * @author Vadimka
+ *
+ */
 public class RWACBackupIndex {
 	
 	public RWACBackupIndex(String filePath) {}
